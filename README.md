@@ -1,4 +1,4 @@
-# JY-OCR for Images (JPG/JPEG/PNG)
+# JY-OCR Desktop
 # Introdução
 
 O programa JY-OCR permite ao usuário indicar o caminho de pastas contendo aqruivos de imgens em formatos de imagem JPG/JPEG/PNG e extrai os textos delas por meio da tecnologia OCR (Optical Character Recognition; Reconhecimento Ótico de Caracteres em portugês), gerando um arquivo de editável em formato TXT (.txt) com os caracteres reconhecidos nas imagens processadas.
