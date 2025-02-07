@@ -6,7 +6,7 @@ O programa JY-OCR permite ao usuário indicar o caminho de pastas contendo aqrui
 Esse aplicativo pode ser útil em um ambiente empresarial em que se precise buscar por imagens de documenntos (recibos, notas, ofícios) a partir de infromações contidas nessas imagens. Assim, após a geração dos arquivos de texto das imagens, é possível pesquisar por informações na barra de pesquisa do Windows Explore. O nome do arquivo de texto encontrado, será o mesmo da imagem que se procura.
 > O arquivo de texto de nome `ofício_123.txt` será o correspondente da imagem nomeada `ofício_123.jpg` (ou .jpg/.png).
   
-[BAIXE AQUI]() O aplicação executável deste projeto. Para usar, basta extrair o aquivo ZIP em um diretório de sua preferência e executar o programa `JY-OCR.exe`.
+[BAIXE AQUI](https://github.com/jacksonyanno/JY-OCR/releases/tag/v1.0.0) o aplicativo deste projeto. Para usar, basta extrair o aquivo ZIP em um diretório de sua preferência e executar o programa `JY-OCR.exe`.
   
 Desenvolvedores devem seguir os passos seguintes:
 
