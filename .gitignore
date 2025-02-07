@@ -1,0 +1,24 @@
+# Python #
+*.log
+*.pot
+*.pyc
+*.py[cod]
+__pycache__/
+env/
+.env
+venv/
+.venv
+venv-*
+
+# Aplicativos baixados/gerados
+build/
+dist/
+Tesseract-OCR/
+
+# Visual Studio Code # 
+.vscode/
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
